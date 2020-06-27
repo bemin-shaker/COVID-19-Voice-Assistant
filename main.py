@@ -6,9 +6,9 @@ import re
 import threading
 import time
 
-API_KEY = "t3RULHM-gHbF"
-PROJECT_TOKEN = "tLOs4Hg6dd5D"
-RUN_TOKEN = "tOMTwer11g30"
+API_KEY = "" #Insert your API KEY here
+PROJECT_TOKEN = "" #Insert your Project Token here
+RUN_TOKEN = "" #Insert your Run Token
 
 
 class Data:
